@@ -7,7 +7,7 @@ Built with C language in ncurses.h
 
 - The game consists of two players 'o' and 'x' with a 3×3 matrix.
 - Players have to align ( 'o' or 'x' ) in a straight line (vertically, horizontally or diagonally).
-- The player who done this first, will be the winner.
+- The player who does this first, will be the winner.
 
 ## Installation
 
@@ -18,9 +18,9 @@ git clone https://github.com/dhimanAditya/TacToe-game-c-ncurses.git
 ## Usage
 
 ```bash
-cd TacToe-game-c-ncurses
-gcc main.c -o tactoe.o
-./tactoe.o
+$ cd TacToe-game-c-ncurses
+$ gcc main.c -o tactoe.o
+$ ./tactoe.o
 ```
 
 ## How to play
